@@ -25,7 +25,7 @@ UCC is a web application that uses CodeIgniter 4 for the backend API and React w
 
 1. Clone the repository:
     ```sh
-    git clone [https://github.com/cyrusmanatad/ucc-revamp.git](https://github.com/cyrusmanatad/ucc-revamp.git)
+    git clone https://github.com/cyrusmanatad/ucc-revamp.git
     cd ucc_revamp
     ```
 
