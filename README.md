@@ -25,7 +25,7 @@ UCC is a web application that uses CodeIgniter 4 for the backend API and React w
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/ucc_revamp.git
+    git clone [https://github.com/cyrusmanatad/ucc-revamp.git](https://github.com/cyrusmanatad/ucc-revamp.git)
     cd ucc_revamp
     ```
 
@@ -35,8 +35,8 @@ UCC is a web application that uses CodeIgniter 4 for the backend API and React w
     ```
 
 3. Access the application:
-    - The backend API will be available at `http://localhost:8000`
-    - The frontend will be available at `http://localhost:3000`
+    - The backend API will be available at `http://localhost:8084`
+    - The frontend will be available at `http://localhost:3001`
 
 ## Usage
 
